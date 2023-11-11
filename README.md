@@ -1,2 +1,2 @@
 # ImageIdentifier
-Identifie the images using python
+Identify the images using python
