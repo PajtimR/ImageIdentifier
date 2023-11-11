@@ -31,7 +31,6 @@ def recognize_image(model, image_paths):
 
 if __name__ == "__main__":
     try:
-        # Load the InceptionV3 model pre-trained on ImageNet data
         model = InceptionV3(weights='imagenet')
 
         # Specify multiple image paths to recognize
